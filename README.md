@@ -8,8 +8,8 @@ Run `insert.php` for 20 rows of data. Then run `delete.php` to test.
 
 The code is from: 
 
-http://stackoverflow.com/questions/4720996/delete-n-number-of-old-records-from-table-in-mysql
-http://stackoverflow.com/questions/17035357/mysql-delete-rows-keeping-the-last-5-for-the-each-user-id
+* http://stackoverflow.com/questions/4720996/delete-n-number-of-old-records-from-table-in-mysql
+* http://stackoverflow.com/questions/17035357/mysql-delete-rows-keeping-the-last-5-for-the-each-user-id
 
 The DB structure assumed: 
 
