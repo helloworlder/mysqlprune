@@ -1,8 +1,7 @@
 mysqlprune
 ==========
 
-Prunes oldest N records by field - no loop constructs. Non-algorithmic approach. For example, keep 5 newest rows for 
-every user.
+Prunes oldest N records by field with MySQL query. For example, we would like to keep the 5 newest rows that belongs to each and every user.
 
 Run `insert.php` for 20 rows of data. Then run `delete.php` to test.
 
